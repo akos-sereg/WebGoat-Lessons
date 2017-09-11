@@ -46,6 +46,7 @@
         <module>http-basics</module>
         <module>http-only</module>
         <module>insecure-login</module>
+        <module>image-bomb</module>
         <module>java-script-validation</module>
         <module>json-injection</module>
         <!--<module>lesson-converter</module>-->
